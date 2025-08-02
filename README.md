@@ -3,14 +3,14 @@
 一个功能强大的移动端签名和绘图应用，支持横竖屏切换、多种画笔设置和颜色选择。
 
 ## APP
-[通用apk](/dist/release/apk/__UNI__CEC06C5__20250802153816.apk)
-[360渠道包](/dist//release/apk/__UNI__CEC06C5_360_20250802153816.apk)
-[应用宝渠道包](/dist/release/apk/__UNI__CEC06C5_yyb_20250802153816.apk)
-[华为渠道包](/dist/release/apk/__UNI__CEC06C5_huawei_20250802153816.apk)
-[OPPO渠道包](/dist/release/apk/__UNI__CEC06C5_oppo_20250802153816.apk)
-[VIVO渠道包](/dist/release/apk/__UNI__CEC06C5_vivo_20250802153816.apk)
-[小米渠道包](/dist/release/apk/__UNI__CEC06C5_xiaomi_20250802153816.apk)
-[应用宝渠道包](/dist/release/apk/__UNI__CEC06C5_yyb_20250802153816.apk)
+[通用apk](./dist/release/apk/__UNI__CEC06C5__20250802153816.apk)
+[360渠道包](./dist//release/apk/__UNI__CEC06C5_360_20250802153816.apk)
+[应用宝渠道包](./dist/release/apk/__UNI__CEC06C5_yyb_20250802153816.apk)
+[华为渠道包](./dist/release/apk/__UNI__CEC06C5_huawei_20250802153816.apk)
+[OPPO渠道包](./dist/release/apk/__UNI__CEC06C5_oppo_20250802153816.apk)
+[VIVO渠道包](./dist/release/apk/__UNI__CEC06C5_vivo_20250802153816.apk)
+[小米渠道包](./dist/release/apk/__UNI__CEC06C5_xiaomi_20250802153816.apk)
+[应用宝渠道包](./dist/release/apk/__UNI__CEC06C5_yyb_20250802153816.apk)
 
 ## 功能特性
 
